@@ -49,7 +49,6 @@ I build small projects to understand how **cloud-ready applications** are design
 ---
 
 ## 📫 Connect
-- GitHub: https://github.com/<your-username>
-- LinkedIn: https://linkedin.com/in/<your-link>
+- LinkedIn: https://www.linkedin.com/in/nirjarbharthi-goswami-b593633a7/
 
-⭐ Beginner cloud learne
+⭐ Beginner cloud learner — improving one project at a time.
