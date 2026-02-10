@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Nirjar
+# Hi, I'm Nirjar
 
 ☁️ Cloud Computing Beginner | Backend & Security Learner  
 🎓 BCA Student | Exploring how applications run securely on the cloud
 
 ---
 
-## 🌱 About Me
+## About Me
 I am a beginner in **cloud computing** with an interest in how backend systems handle:
 - Authentication & authorization
 - Secure access to applications
@@ -16,7 +16,7 @@ I build small projects to understand how **cloud-ready applications** are design
 
 ---
 
-## 🛠️ What I’m Learning
+## What I’m Learning
 **Cloud & DevOps Basics**
 - AWS (EC2, IAM basics, S3 – learning)
 - Cloud architecture fundamentals
@@ -40,7 +40,7 @@ I build small projects to understand how **cloud-ready applications** are design
 
 ---
 
-## 📈 Current Focus
+## Current Focus
 - Learning AWS fundamentals
 - Understanding IAM concepts used in cloud platforms
 - Deploying backend APIs (learning stage)
@@ -48,7 +48,7 @@ I build small projects to understand how **cloud-ready applications** are design
 
 ---
 
-## 📫 Connect
+## Connect
 - LinkedIn: https://www.linkedin.com/in/nirjarbharthi-goswami-b593633a7/
 
 ⭐ Beginner cloud learner — improving one project at a time.
