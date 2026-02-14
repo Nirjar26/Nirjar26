@@ -78,7 +78,7 @@ Relevant Coursework:
 
 ## ⚙️ Technical Stack
 
-**Cloud $ Infrastructure:**  
+**Cloud & Infrastructure:**  
 AWS (EC2, S3, IAM, VPC, CloudWatch) • AWS CLI • CloudFormation (Learning) • Terraform (Learning) • Linux • Bash
 
 **Databases:**  
