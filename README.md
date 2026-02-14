@@ -1,96 +1,94 @@
-Hi, I'm Nirjar Goswami
-☁️ Cloud & AWS Intern Seeker | Backend Developer | Security Enthusiast
-🎓 BCA Final Year Student | Building Secure, Cloud-Ready Applications
+# Hi, I'm Nirjar Goswami 👋
+
+☁️ Cloud & AWS Intern Seeker | Cloud Security Enthusiast  
+🎓 BCA Final Year Student 
 📍 Ahmedabad, India | 📧 nirjargoswami2626@email.com | 💼 LinkedIn
 
-About Me
-I'm a final-year BCA student with hands-on experience in AWS Cloud Computing and a strong interest in backend development and cloud security. I focus on understanding how modern applications are built, secured, and deployed in cloud environments.
-Through academic projects and AWS Skill Builder labs, I've gained practical experience with EC2, S3, IAM, VPC, and CloudWatch. I build small-to-medium projects to understand authentication systems, secure API design, and cloud-ready architecture—combining backend logic with cloud infrastructure fundamentals.
+---
 
+## 🚀 About Me
+I'm a final-year BCA student focused on AWS Cloud Computing and cloud security.  
+I’m passionate about understanding how scalable infrastructure is designed, secured, and optimized in real-world cloud environments.
 
-Current Focus:
-Preparing for AWS Certified Cloud Practitioner and Solutions Architect – Associate certifications
-Learning Infrastructure as Code (CloudFormation, Terraform) and automation scripting
-Exploring real-world cloud deployment and cost optimization
+Through academic projects and AWS Skill Builder labs, I’ve gained hands-on experience with EC2, S3, IAM, VPC, and CloudWatch. My focus is on building secure, reliable cloud architectures while strengthening knowledge of infrastructure, identity management, and operational best practices.
 
+---
 
-Core Competencies
+## 🎯 Current Focus
+- Preparing for **AWS Certified Cloud Practitioner** and **Solutions Architect – Associate**
+- Learning Infrastructure as Code (CloudFormation, Terraform)
+- Exploring real-world cloud deployment, monitoring, and cost optimization
 
-Cloud & AWS
+---
 
-Amazon EC2, S3, IAM, VPC, CloudWatch
-AWS CLI, Cloud Security Basics
-Shared Responsibility Model
-Cost & Billing Awareness
+## 🧠 Core Competencies
 
-Programming 
+### ☁️ Cloud & AWS
+- Amazon EC2, S3, IAM, VPC, CloudWatch
+- AWS CLI & Cloud Security Basics
+- Shared Responsibility Model
+- Cost & Billing Awareness
 
-Python (Intermediate – Scripting & APIs)
+### 🔐 Cloud Security Fundamentals
+- IAM & Least-Privilege Policies
+- Multi-Factor Authentication Concepts
+- Secure Configuration Practices
+- Identity & Access Management Principles
 
-Security Fundamentals
+### 🗄️ Databases & Tools
+- Amazon DynamoDB (Basic)
+- SQLite, MySQL, PostgreSQL (Basic)
+- Linux Fundamentals & Bash
+- JSON/YAML Configuration
 
-Password Hashing (Argon2id, bcrypt)
-Multi-Factor Authentication (TOTP, Backup Codes)
-Secure Coding Practices
-IAM & Least-Privilege Policies
+---
 
-Databases & Tools
+## 🛠️ Practical Experience
 
-SQLite, MySQL, PostgreSQL (Basics)
-Amazon DynamoDB (NoSQL – Basic)
-Linux Fundamentals, Bash Scripting
-JSON/YAML Configuration
+### AWS Cloud Hands-On Lab
+- Designed and deployed a secure AWS environment using EC2 within a custom VPC
+- Configured security groups restricting inbound traffic to essential ports
+- Implemented IAM users and roles with least-privilege access
+- Monitored infrastructure health using Amazon CloudWatch
+- Reviewed billing dashboards to understand cost optimization basics
 
+### Virtual Lab Practice
+- Practiced AWS shared responsibility across compute, storage, and networking
+- Performed Linux user and permission management
+- Used VMware & VirtualBox for isolated cloud and security lab simulations
 
-Practical Experience
-AWS Cloud Hands-On Lab
+---
 
-Designed and deployed a secure AWS environment using EC2 instances within a custom VPC
-Implemented security groups restricting inbound traffic to SSH and HTTP only, reducing unnecessary exposure
-Provisioned EC2 instances with key-pair authentication and appropriate sizing for controlled access
-Created IAM users and roles with least-privilege policies to separate administrative and operational access
-Monitored system health using Amazon CloudWatch, tracking CPU utilization and instance status
-Reviewed AWS billing dashboards to identify cost drivers and apply basic cost-optimization concepts
+## 🎓 Education
+**Bachelor of Computer Applications (BCA) — Final Year (Pursuing)**  
+Charotar University of Science and Technology (CHARUSAT), Changa  
+CGPA: **8.61 / 10**
 
-Virtual Lab Practice
-
-Practiced AWS shared responsibility boundaries across compute, storage, and networking layers
-Performed Linux user and permission management to reinforce OS-level security fundamentals
-Used VMware and VirtualBox to simulate isolated cloud and security lab environments
-
-
-Education
-Bachelor of Computer Applications (BCA) – Final Year (Pursuing)
-Charotar University of Science and Technology (CHARUSAT), Changa
-CGPA: 8.61 / 10 (after 5 semesters)
 Relevant Coursework:
+- AWS Cloud Practitioner Essentials
 
-AWS Cloud Practitioner Essentials – Course Completion
+---
 
+## 📜 Certifications (In Progress)
+- ☁️ AWS Certified Cloud Practitioner
+- 🏗️ AWS Solutions Architect – Associate
 
-Certifications (In Progress)
-
-☁️ AWS Certified Cloud Practitioner
-🏗️ AWS Solutions Architect – Associate
-
-
-What I'm Building
-I focus on projects that combine cloud infrastructure with secure backend development:
-
-Cloud-deployed APIs with authentication and authorization
-Secure password managers using AES-256 encryption and zero-knowledge architecture
-Multi-factor authentication systems with TOTP and backup codes
-AWS-hosted applications leveraging EC2, S3, and IAM for security
+---
 
 
-Technical Stack
-Cloud & DevOps:
-AWS (EC2, S3, IAM, VPC, CloudWatch) • AWS CLI • CloudFormation, Terraform(Learning) • Linux • Bash Scripting
-Databases:
-MySQL • SQLite • PostgreSQL • DynamoDB (Basic)
-Tools:
-Git • VMware • VirtualBox • Cursor AI • JSON/YAML
+## ⚙️ Technical Stack
 
-Availability
-✅ Open to Internship / Apprenticeship opportunities (Remote / On-site)
-🎯 Seeking roles in: Cloud Engineering, Cloud Architect, Cloud Security
+**Cloud $ Infrastructure:**  
+AWS (EC2, S3, IAM, VPC, CloudWatch) • AWS CLI • CloudFormation (Learning) • Terraform (Learning) • Linux • Bash
+
+**Databases:**  
+DynamoDB (Basic) • MySQL • SQLite • PostgreSQL
+
+**Tools:**  
+Git • VMware • VirtualBox • JSON/YAML
+
+---
+
+## 📌 Availability
+✅ Open to Internship / Apprenticeship Opportunities (Remote / On-site)  
+🎯 Seeking roles in Cloud Engineering, Cloud Architecture, and Cloud Security
