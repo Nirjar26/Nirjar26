@@ -1,7 +1,7 @@
 <div align="center">
 
 # Nirjar Goswami
-**Associate Cloud Engineer | Security & Infrastructure | Ahmedabad, India**
+**Associate Cloud Engineer  Ahmedabad, India**
 
 </div>
 
