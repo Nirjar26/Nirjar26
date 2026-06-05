@@ -9,9 +9,7 @@
 
 ## About
 
-MSc (Cybersecurity) student targeting Cloud and DevOps roles. Built projects around IAM, CI/CD, and container security using Docker,
-Kubernetes, Helm, and ArgoCD. Automated pipelines with GitHub Actions, provisioned infra with Terraform, and enforced supply chain security
-with Trivy, Cosign, and Kyverno - all on AWS with a focus on least-privilege access and production-grade observability.
+Into software, cloud, developer operations and security. 
 
 ---
 
@@ -21,8 +19,8 @@ with Trivy, Cosign, and Kyverno - all on AWS with a focus on least-privilege acc
 | Category | Technologies |
 |---|---|
 | **Cloud & DevOps** | AWS, Linux, Terraform, Docker, Kubernetes, Jenkins, Helm, ArgoCD, GitHub Actions |
-| **Security** | Trivy, Cosign, Falco, SonarQube, SealedSecrets |
-| **Observability** | Prometheus, Grafana, OpenTelemetry, Loki, Alertmanager |
+| **Security** | Trivy, Cosign, Falco, SonarQube, SealedSecrets, CrowSec |
+| **Observability** | Prometheus, Grafana, Datadog, OpenTelemetry, Loki, Alertmanager |
 | **Languages** | Go, Python, JavaScript/TypeScript, Bash, SQL, HCL |
 
 ---
@@ -40,13 +38,13 @@ with Trivy, Cosign, and Kyverno - all on AWS with a focus on least-privilege acc
 
 ---
 
-## Education 
+## Education
 
-### Master of Science (Cybersecurity)
-GLS University — Ahmedabad, India 
-
-### Bachelor of Computer Applications
-Charotar University of Science and Technology (CHARUSAT) — Nadiad, Gujarat 
+**Master of Science (Cybersecurity)**
+- GLS University — Ahmedabad
+  
+**Bachelor of Computer Applications**
+- Charotar University of Science and Technology (CHARUSAT) — Nadiad, Gujarat
 
 ---
 
