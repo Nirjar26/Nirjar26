@@ -9,63 +9,97 @@
 
 ## About
 
-Into software, cloud, developer operations and security. 
+Into software, cloud, developer operations and security.
 
 ---
 
-## Skills
+## Stack
 
+### Cloud & DevOps
 
-| Category | Technologies |
-|---|---|
-| **Cloud & DevOps** | AWS, Linux, Terraform, Docker, Kubernetes, Jenkins, Helm, ArgoCD, GitHub Actions |
-| **Security** | Trivy, Cosign, Falco, SonarQube, SealedSecrets, CrowSec |
-| **Observability** | Prometheus, Grafana, Datadog, OpenTelemetry, Loki, Alertmanager |
-| **Languages** | Go, Python, JavaScript/TypeScript, Bash, SQL, HCL |
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,linux,terraform,docker,kubernetes,jenkins,githubactions" />
+  <img src="https://cdn.simpleicons.org/helm/0F1689" height="48" />
+  <img src="https://cdn.simpleicons.org/argo/EF7B4D" height="48" />
+</p>
+
+### Observability
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+  <img src="https://cdn.simpleicons.org/datadog/632CA6" height="48" />
+  <img src="https://cdn.simpleicons.org/opentelemetry" height="48" />
+  <img src="https://raw.githubusercontent.com/grafana/loki/main/docs/sources/logo_and_name.png" height="48" />
+</p>
+
+### Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=go,python,js,ts,bash" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
 ---
 
 ## Projects
 
-| Project | Description |
-|---|---|
-| [**AegisMesh**](https://github.com/nirjxr26/AegisMesh-IAM) | Enterprise IAM platform — multi-tenant RBAC, JWT + TOTP MFA, OAuth, session management, API key control, audit logging |
-| [**DeployLens**](https://github.com/nirjxr26/DeployLens) | CI/CD observability platform integrating GitHub Actions and AWS CodeDeploy with real-time deployment tracking |
-| [**HookDrop**](https://github.com/nirjxr26/HookDrop) | Webhook receiver in Go, deployed through a GitOps pipeline — Docker, Helm, ArgoCD, ECR, Trivy, kind cluster |
-| [**Blameless**](https://github.com/nirjxr26/Blamless) | GitHub Actions failure analyzer — distinguishes user code failures from GitHub infrastructure issues, with auto-retry |
-| [**SmartFlow**](https://github.com/nirjxr26/SmartFlow) | SmartFlow unifies task workflows, approval pipelines, and resource insights with a modern React + PHP stack. |
-| [**VaultLock**](https://github.com/nirjxr26/VaultLock-Password-Manager) | Building a zero-knowledge offline password manager using AES-256, Argon2id, and PyQt6/QML. Privacy-first, no cloud. |
+### [AegisMesh](https://github.com/nirjxr26/AegisMesh-IAM)
+Self-hosted IAM platform with RBAC, MFA, OAuth 2.0, and ML-based risk scoring. Includes a full CI/CD pipeline with SonarQube, Trivy, and Cosign security gates. MLOps pipeline uses Isolation Forest for anomaly detection with MLflow experiment tracking and Kubernetes CronJob retraining.
+
+`Go` `PostgreSQL` `Kubernetes` `MLflow` `Prometheus` `Grafana` `Datadog`
 
 ---
 
-## Education
+### [HookDrop](https://github.com/nirjxr26/HookDrop)
+Self-hosted webhook receiver with SSE streaming, deployed via GitOps. Ships with an OpenTelemetry observability pipeline and full policy enforcement through Kyverno.
 
-**Master of Science (Cybersecurity)**
-- GLS University — Ahmedabad
-  
-**Bachelor of Computer Applications**
-- Charotar University of Science and Technology (CHARUSAT) — Nadiad, Gujarat
+`Go` `Helm` `ArgoCD` `Kyverno` `OpenTelemetry`
 
 ---
 
-## Community
+### [DeployLens](https://github.com/nirjxr26/DeployLens)
+Dashboard correlating GitHub Actions runs with AWS CodeDeploy events. Built to surface deployment causality — what shipped, when, and what broke.
 
-**Google Student Ambassador**
-- Conducted 5+ peer interviews gathering student feedback on AI tool adoption for Google’s Gemini ambassador initiative.
-- Led Gemini demos at CHARUSAT University, showcasing AI-assisted debugging, documentation, and developer workflows.
+`AWS CodeDeploy` `GitHub Actions` `TypeScript`
 
 ---
 
-## Contact
+### [BlameLess](https://github.com/nirjxr26/Blamless)
+GitHub Action that detects GitHub infrastructure incidents and auto-retries failed workflow runs. Published to the GitHub Marketplace. Named after the blameless postmortem culture in SRE.
 
-<p align="center">
-<a href="https://instagram.com/nirjar_goswami"><img src="Social%20Icons/instagram.svg" width="46" height="46" alt="Instagram" /></a>
-&nbsp;&nbsp;
-<a href="https://x.com/nirjxrgoswami"><img src="Social%20Icons/twitter_x.svg" width="46" height="46" alt="X" /></a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/nirjarbharthi-goswami-b593633a7"><img src="Social%20Icons/linkedin.svg" width="46" height="46" alt="LinkedIn" /></a>
-&nbsp;&nbsp;
-<a href="mailto:nirjargoswami2626@gmail.com"><img src="Social%20Icons/mail.svg" width="46" height="46" alt="Email" /></a>
-&nbsp;&nbsp;
-<a href="https://github.com/nirjxr26"><img src="Social%20Icons/github.svg" width="46" height="46" alt="GitHub" /></a>
-</p>
+`GitHub Actions` `CI/CD` `Go`
+
+---
+
+### [VaultLock](https://github.com/nirjxr26/VaultLock-Password-Manager)
+Zero-knowledge offline password manager. AES-256 encryption with Argon2id key derivation. No network, no cloud, no trust assumptions.
+
+`Python` `AES-256` `Argon2id` `PyQt6`
+
+---
+
+## Activity
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nirjxr26&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366f1&line=6366f1&point=a5b4fc)
+
+![Contribution Snake](https://raw.githubusercontent.com/nirjxr26/nirjxr26/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## Connect
+
+<div align="center">
+
+[nirjargoswami2626@gmail.com](mailto:nirjargoswami2626@gmail.com) · [LinkedIn](https://www.linkedin.com/in/nirjarbharthi-goswami-b593633a7) · [GitHub](https://github.com/nirjxr26) · [nirjxr.dev](https://nirjxr.dev)
+
+</div>
+
+---
+
+<div align="center">
+<sub>Engineering reliable systems so teams can focus on building products.</sub>
+</div>
