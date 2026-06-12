@@ -1,63 +1,114 @@
 <div align="center">
 
 # Nirjar Goswami
-
-**Associate Cloud Engineer | Security & Infrastructure | Ahmedabad, India**
+**Associate Cloud and DevOps Engineer | Ahmedabad, India**
 
 </div>
 
+---
+
 ## About
-I’m an Associate Cloud Engineer. Most days I’m digging into how cloud systems actually behave—what scales, what breaks, and how to keep things secure. When I’m not doing that, I’m either gaming or out trying new places to eat.
 
+Into software, cloud, developer operations and security.
 
-## Experience
+---
 
-**Cloud Infrastructure Practice | AWS Skill Builder**
+## Stack
 
-> Jan 2026 – Present
+### Cloud & DevOps
 
-- Designed secure VPC architectures with public/private subnets and restricted ingress policies  
-- Managed EC2 instances with optimized configurations and cost-aware deployments  
-- Implemented IAM roles and policies following least-privilege principles  
-- Built CloudWatch dashboards and alerting systems for infrastructure monitoring  
-- Analyzed billing and optimized simulated cloud costs through resource management  
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,linux,terraform,docker,kubernetes,jenkins,githubactions" />
+  <img src="https://cdn.simpleicons.org/helm/0F1689" height="48" />
+  <img src="https://cdn.simpleicons.org/argo/EF7B4D" height="48" />
+</p>
 
+### Observability
+
+<p>
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+  <img src="https://cdn.simpleicons.org/datadog/632CA6" height="48" />
+  <img src="https://cdn.simpleicons.org/opentelemetry" height="48" />
+</p>
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=go,python,js,ts,bash,mysql" />
+</p>
+
+---
 
 ## Projects
 
-### [AegisMesh](https://github.com/Nirjar26/AegisMesh-IAM)
-Enterprise IAM platform with multi-tenant RBAC, JWT + TOTP MFA, OAuth (Google/GitHub), session management, API key control, and audit logging.
+### [AegisMesh](https://github.com/nirjxr26/AegisMesh-IAM)
 
-### [DeployLens](https://github.com/Nirjar26/DeployLens)
-CI/CD observability platform integrating GitHub Actions and AWS CodeDeploy with real-time deployment tracking and unified status visibility.
+Self-hosted IAM platform with RBAC, MFA, OAuth 2.0, and ML-based risk scoring. Includes a full CI/CD pipeline with SonarQube, Trivy, and Cosign security gates. MLOps pipeline uses Isolation Forest for anomaly detection with MLflow experiment tracking and Kubernetes CronJob retraining.
 
-### [VaultLock](https://github.com/Nirjar26/VaultLock-Password-Manager)
-Zero-knowledge offline password manager using AES-256 encryption and Argon2id key derivation with a PyQt6-based UI.
+---
 
-### [SmartFlow](https://github.com/Nirjar26/SmartFlow)
-Full-stack workflow and task management system with scalable backend design and dynamic frontend architecture.
+### [HookDrop](https://github.com/nirjxr26/HookDrop)
+
+Self-hosted webhook receiver with SSE streaming, deployed via GitOps. Ships with an OpenTelemetry observability pipeline and full policy enforcement through Kyverno.
+
+---
+
+### [DeployLens](https://github.com/nirjxr26/DeployLens)
+
+Dashboard correlating GitHub Actions runs with AWS CodeDeploy events. Built to surface deployment causality — what shipped, when, and what broke.
+
+---
+
+### [BlameLess](https://github.com/nirjxr26/Blamless)
+
+GitHub Action that detects GitHub infrastructure incidents and auto-retries failed workflow runs. Published to the GitHub Marketplace. Named after the blameless postmortem culture in SRE.
+
+---
+
+### [VaultLock](https://github.com/nirjxr26/VaultLock-Password-Manager)
+
+Zero-knowledge offline password manager. AES-256 encryption with Argon2id key derivation. No network, no cloud, no trust assumptions.
+
+---
 
 
-## Education
+## Community
 
-> Jun 2023 – May 2026  
+### Google Student Ambassador
+- Conducted 5+ peer interviews gathering student feedback on AI tool adoption for Google’s Gemini ambassador initiative.
+- Led Gemini demos at CHARUSAT University, showcasing AI-assisted debugging, documentation, and developer workflows.
 
-Bachelors of Computer Applications (BCA)  
-Charotar Science and Technology University - CGPA: 8.61/10  
+---
 
-## Contact
+## Connect
 
 <p align="center">
-<a href="https://instagram.com/nirjar_goswami" style="text-decoration:none; display:inline-block; line-height:0;"><img src="Social%20Icons/instagram.svg" width="46" height="76" alt="Instagram" style="display:block;" /></a>
-&nbsp;
-<a href="https://x.com/nirjxrgoswami" style="text-decoration:none; display:inline-block; line-height:0;"><img src="Social%20Icons/twitter_x.svg" width="46" height="76" alt="X" style="display:block;" /></a>
-&nbsp;
-<a href="https://www.linkedin.com/in/nirjarbharthi-goswami-b593633a7" style="text-decoration:none; display:inline-block; line-height:0;"><img src="Social%20Icons/linkedin.svg" width="46" height="76" alt="LinkedIn" style="display:block;" /></a>
-&nbsp;
-<a href="mailto:nirjargoswami2626@gmail.com" style="text-decoration:none; display:inline-block; line-height:0;"><img src="Social%20Icons/mail.svg" width="46" height="76" alt="Email" style="display:block;" /></a>
-&nbsp;
-<a href="https://github.com/Nirjar26" style="text-decoration:none; display:inline-block; line-height:0;"><img src="Social%20Icons/github.svg" width=46" height="76" alt="GitHub" style="display:block;" /></a>
+  <a href="mailto:nirjargoswami2626@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="42" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://www.linkedin.com/in/nirjarbharthi-goswami-b593633a7">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://github.com/nirjxr26">
+    <img src="https://skillicons.dev/icons?i=github" height="42" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://instagram.com/nirjar_goswami">
+    <img src="https://cdn.simpleicons.org/instagram" height="42" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://x.com/nirjxrgoswami">
+    <img src="https://cdn.simpleicons.org/x" height="42" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://your-portfolio-domain.com">
+    <img src="https://cdn.simpleicons.org/googlechrome" height="42" />
+  </a>
 </p>
-<!-- <a href="https://hashnode.com/@nirjxr" style="text-decoration:none; display:inline-block; line-height:0;">
-  <img src="Social%20Icons/hashnode.svg" width="46" height="76" alt="Hashnode" style="display:block;" />
-</a> -->
