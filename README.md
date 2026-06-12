@@ -113,7 +113,7 @@ Zero-knowledge offline password manager. AES-256 encryption with Argon2id key de
   </a>
   &nbsp;&nbsp;
 
-  <a href="https://your-portfolio-domain.com">
+  <a href="https://nirjar.me">
     <img src="https://cdn.simpleicons.org/googlechrome" height="42" />
   </a>
 </p>
