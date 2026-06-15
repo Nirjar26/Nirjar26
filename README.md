@@ -77,11 +77,6 @@ Zero-knowledge offline password manager. AES-256 encryption with Argon2id key de
 ### Google Student Ambassador
 - Conducted 5+ peer interviews gathering student feedback on AI tool adoption for Google’s Gemini ambassador initiative.
 - Led Gemini demos at CHARUSAT University, showcasing AI-assisted debugging, documentation, and developer workflows.
----
-
-## Activity
-
-<img src="https://raw.githubusercontent.com/nirjxr26/nirjxr26/output/github-contribution-grid-snake.svg" />
 
 ---
 
