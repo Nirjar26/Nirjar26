@@ -68,9 +68,21 @@ Into software, cloud, developer operations and security.
 ## Connect
 
 <p align="center">
-<a href="https://instagram.com/nirjar_goswami"><img src="Social%20Icons/instagram.svg" width="60" height="60" alt="Instagram" /></a>&nbsp;
-<a href="https://x.com/nirjxrgoswami"><img src="Social%20Icons/twitter_x.svg" width="60" height="60" alt="X" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/nirjarbharthi-goswami-b593633a7"><img src="Social%20Icons/linkedin.svg" width="60" height="60" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:nirjargoswami2626@gmail.com"><img src="Social%20Icons/mail.svg" width="60" height="60" alt="Email" /></a>&nbsp;
-<a href="https://github.com/nirjxr26"><img src="Social%20Icons/github.svg" width="60" height="60" alt="GitHub" /></a>
+  <a href="https://instagram.com/nirjar_goswami">Instagram</a>
+  ·
+  <a href="https://x.com/nirjxrgoswami">X</a>
+  ·
+  <a href="https://www.linkedin.com/in/nirjxr">LinkedIn</a>
+  ·
+  <a href="mailto:nirjargoswami2626@gmail.com">Email</a>
+  ·
+  <a href="https://github.com/nirjxr26">GitHub</a>
+  ·
+  <a href="https://nirjar.me">Website</a>
+  ·
+  <a href="https://blog.nirjar.me">Blogs</a>
 </p>
+
+
+
+
