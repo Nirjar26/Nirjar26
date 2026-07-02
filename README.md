@@ -15,7 +15,7 @@ Into software, cloud, developer operations and security.
 
 ## Featured Work
 
-### [AegisMesh](https://github.com/nirjxr26/AegisMesh-IAM)
+### [Bastion](https://github.com/nirjxr26/Bastion)
 
 - Self-hosted IAM platform with RBAC, MFA, OAuth 2.0, and ML-based risk scoring. Includes a full pipeline with SonarQube, Trivy, and Cosign security gates. 
 - MLOps pipeline uses Isolation Forest for anomaly detection with MLflow experiment tracking and Kubernetes CronJob retraining.
