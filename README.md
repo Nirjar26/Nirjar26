@@ -22,6 +22,13 @@ Into software, cloud, developer operations and security.
 
 ---
 
+### [Kost](https://github.com/nirjxr26/Kost)
+
+- Kubernetes wastes 30-50% of the compute it's given.
+- Kost finds where, tells you the dollar cost, and gives you the exact kubectl command to fix it — no dashboard, no database, no SaaS bill.
+
+---
+
 ### [HookDrop](https://github.com/nirjxr26/HookDrop)
 
 - Self-hosted webhook receiver with SSE streaming, deployed via GitOps.
@@ -33,13 +40,6 @@ Into software, cloud, developer operations and security.
 
 - Dashboard correlating GitHub Actions runs with AWS CodeDeploy events.
 - Built to surface deployment causality — what shipped, when, and what broke.
-
----
-
-### [VaultLock](https://github.com/nirjxr26/VaultLock-Password-Manager)
-
-- Zero-knowledge offline password manager. AES-256 encryption with Argon2id key derivation.
-- No network, no cloud, no trust assumptions.
 
 
 ###### [View more](https://github.com/nirjxr26?tab=repositories)
