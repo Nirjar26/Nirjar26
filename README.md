@@ -16,7 +16,7 @@ Into software, cloud, developer operations, and security.
 ## Featured Work
 
 ### [Bastion](https://github.com/nirjxr26/Bastion) 
-[![Website](https://img.shields.io/badge/Website-Visit-blue)](https://nirjar.me/projects/bastion)
+[![Website](https://img.shields.io/badge/Website-Visit-blue)](https://nirjar.me/works/bastion)
 
 - Self-hosted IAM platform with RBAC, MFA, OAuth 2.0, and ML-based risk scoring. Includes a full pipeline with SonarQube, Trivy, and Cosign security gates. 
 - MLOps pipeline uses Isolation Forest for anomaly detection with MLflow experiment tracking and Kubernetes CronJob retraining.
