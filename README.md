@@ -9,13 +9,14 @@
 
 ## About
 
-Into software, cloud, developer operations and security.
+Into software, cloud, developer operations, and security.
 
 ---
 
 ## Featured Work
 
-### [Bastion](https://github.com/nirjxr26/Bastion)
+### [Bastion](https://github.com/nirjxr26/Bastion) 
+[![Website](https://img.shields.io/badge/Website-Visit-blue)](https://nirjar.me/projects/bastion)
 
 - Self-hosted IAM platform with RBAC, MFA, OAuth 2.0, and ML-based risk scoring. Includes a full pipeline with SonarQube, Trivy, and Cosign security gates. 
 - MLOps pipeline uses Isolation Forest for anomaly detection with MLflow experiment tracking and Kubernetes CronJob retraining.
@@ -68,21 +69,13 @@ Into software, cloud, developer operations and security.
 ## Connect
 
 <p align="center">
-  <a href="https://instagram.com/nirjar_goswami">Instagram</a>
-  ·
-  <a href="https://x.com/nirjxrgoswami">X</a>
-  ·
-  <a href="https://www.linkedin.com/in/nirjxr">LinkedIn</a>
-  ·
-  <a href="mailto:nirjargoswami2626@gmail.com">Email</a>
-  ·
-  <a href="https://github.com/nirjxr26">GitHub</a>
-  ·
-  <a href="https://nirjar.me">Website</a>
-  ·
-  <a href="https://blog.nirjar.me">Blogs</a>
+<a href="https://instagram.com/nirjar_goswami"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"></a>
+<a href="https://x.com/nirjxrgoswami"><img src="https://img.shields.io/badge/-000000?style=flat&logo=x&logoColor=white" alt="X"></a>
+<a href="https://www.linkedin.com/in/nirjxr"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
+<a href="mailto:nirjargoswami2626@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/nirjxr26"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a>
+<a href="https://nirjar.me"><img src="https://img.shields.io/badge/Portfolio-1F2937?style=flat&logo=googlechrome&logoColor=white"></a>
+<a href="https://blog.nirjar.me"><img src="https://img.shields.io/badge/Blog-F97316?style=flat&logo=hashnode&logoColor=white"></a>
 </p>
-
-
 
 
