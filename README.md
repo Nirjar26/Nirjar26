@@ -24,6 +24,7 @@ Into software, cloud, developer operations, and security.
 ---
 
 ### [Kost](https://github.com/nirjxr26/Kost)
+[![Website](https://img.shields.io/badge/Website-Visit-blue)](https://nirjar.me/works/kost)
 
 - Kubernetes wastes 30-50% of the compute it's given.
 - Kost finds where, tells you the dollar cost, and gives you the exact kubectl command to fix it — no dashboard, no database, no SaaS bill.
