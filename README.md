@@ -32,6 +32,7 @@ Into software, cloud, developer operations, and security.
 ---
 
 ### [HookDrop](https://github.com/nirjxr26/HookDrop)
+[![Website](https://img.shields.io/badge/Website-Visit-blue)](https://nirjar.me/works/hookdrop)
 
 - Self-hosted webhook receiver with SSE streaming, deployed via GitOps.
 - Ships with an OpenTelemetry observability pipeline and full policy enforcement through Kyverno.
