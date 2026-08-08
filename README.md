@@ -67,10 +67,9 @@ Into software, cloud, developer operations, and security.
 - 2026 – 2028
 
 ### Bachelor of Computer Applications 
-- Charotar Science and Technology University (CHARUSAT), Ahmedabad  
+- Charotar Science and Technology University (CHARUSAT), Anand  
 - 2026 – 2028
-- > **9 / 10 CGPA**
-
+- Grade – 9 / 10 CGPA
 
 ---
 
