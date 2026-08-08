@@ -60,6 +60,20 @@ Into software, cloud, developer operations, and security.
 
 ---
 
+## Education
+
+### Master of Science in Cybersecurity
+- Gujarat Law Society University (GLSU), Ahmedabad  
+- 2026 – 2028
+
+### Bachelor of Computer Applications 
+- Charotar Science and Technology University (CHARUSAT), Ahmedabad  
+- 2026 – 2028
+- > **9 / 10 CGPA**
+
+
+---
+
 ## Community
 
 ### Google Student Ambassador
