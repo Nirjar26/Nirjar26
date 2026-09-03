@@ -1,15 +1,14 @@
 <div align="center">
 
 # Nirjar Goswami
-**Associate Cloud and DevOps Engineer | Ahmedabad, India**
-
+**Associate Cloud and Security Engineer | Ahmedabad, India**
 </div>
 
 ---
 
 ## About
 
-Into software, cloud, developer operations, and security.
+Everyone's specializing, but I went wide instead, learning how most of the pieces connect rather than mastering just one.
 
 ---
 
